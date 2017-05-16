@@ -1,0 +1,52 @@
+h1 {
+  font-size: 1.2em;
+  color: #999;
+  margin-bottom: 0;
+}
+h2 {
+  font-size: 2em;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.menu{
+  border: 1px ridge;
+height: 607px;
+padding: 0px;
+background: #f7f3f3;
+border-style: outset;
+box-shadow: 8px 6px 5px #888888;
+margin-right: 11px;
+}
+.menulist{
+  position: absolute;
+  height: 100%;
+}
+.menulist a{
+height:40px;
+font-weight: bold;
+}
+.work{
+  border:
+}
+.navbar-light{
+  background-color: #87c0e2;
+}
+.col-md-8{
+  background-color: #f6f6f7;
+}
+.container{
+  width:100%;
+  margin-top: 5px;
+  height: 619px;
+  overflow: hidden;
+}
+.menurow{
+  height: 611px;
+}
+.list-group-item{
+font-size: 12px;
+}
+.list-group{
+  display: inline;
+}

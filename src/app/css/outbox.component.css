@@ -1,0 +1,50 @@
+.selected {
+  background-color: #CFD8DC !important;
+  color: white;
+}
+.messages {
+  margin: 0 0 2em 0;
+  list-style-type: none;
+  padding: 0;
+
+}
+img{
+  width:78px;
+}
+.messages li.selected:hover {
+  background-color: #BBD8DC !important;
+  color: white;
+}
+.messages .text {
+  position: relative;
+  top: -3px;
+}
+.col-md-6{
+  height: 550px;
+}
+.list-group{
+  height: 565px;
+  overflow: hidden;
+  overflow-y: scroll;
+  margin: 0px;
+  width:19em;
+}
+.list-group-item{
+  display: inline;
+}
+.subject{
+  margin:0px;
+  color:#adaad8;
+}
+button {
+  font-family: Arial;
+  background-color: #eee;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  cursor: hand;
+}
+button:hover {
+  background-color: #cfd8dc;
+}
